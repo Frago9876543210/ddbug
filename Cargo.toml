@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "main",
+    "parser",
 ]
 
 [profile.release]
